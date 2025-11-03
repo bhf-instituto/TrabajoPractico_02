@@ -60,12 +60,9 @@ La aplicación usa Spectre.Console para una experiencia de consola más rica:
 - **Encodings/formatos:** la app espera que cada línea tenga 5 campos separados por `;`. Corrupción dará excepciones en carga.  
 - **Permisos:** si no se pueden crear/abrir `Log.txt` o `Agenda.txt`, prueba permisos de carpeta o usar una ruta dentro de tu usuario.  
 
-## Documentación del código
-Se añadieron comentarios XML en los archivos principales para facilitar generación de documentación con herramientas estándar de .NET/IDE.
 
 ## Soporte y contacto
 **Autor:** Bauhoffer Mariano  
-(Agregar contacto si se desea)
 
 ---
 
