@@ -109,7 +109,7 @@ namespace TP_2
             }
             else
             {
-                // El parametro está hardcodeado. No deberia dar error nunca. 
+                // El parametro está hardcodeado. No deberia dar error. 
                 Console.WriteLine("Error de parametro en la función mostrarAgendaOrdenada");
                 Console.ReadKey();
                 return;

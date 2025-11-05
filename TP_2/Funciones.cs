@@ -158,7 +158,8 @@ namespace TP_2
         }
 
         // Renderiza una lista de contactos en forma de tabla.
-        // Si linea = true añade columna índice al inicio.
+        // Si linea = true añade columna índice al inicio, es decir 
+        // el número de linea del contacto.
         public static void func_renderizarTabla
             (List<Contacto> listaContactos, bool linea = true)
         {

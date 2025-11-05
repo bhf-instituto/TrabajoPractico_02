@@ -214,6 +214,8 @@ namespace TP_2
                         break;
                 }
 
+
+                // Escribo los cambios en el log, con los datos formateados. 
                 Declara.escritor.WriteLine(fecha + " - Contacto Editado: " +
                     Funciones.func_formatearString(contacto_copia.Nombre) + " " +
                     Funciones.func_formatearString(contacto_copia.Apellido));
@@ -224,6 +226,7 @@ namespace TP_2
                 Declara.escritor.WriteLine("\t→ " + contacto.ToString());
             }
 
+            // Dejo un espacio entre cambio y cambio.
             Declara.escritor.WriteLine();
             Declara.escritor.Close();
         }
