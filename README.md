@@ -18,6 +18,7 @@ Aplicación de consola para gestionar una agenda de contactos. Interfaz enriquec
 - **C:\Prog1\TP_2**
 
 ## Repositorio de GitHub
+- **https://github.com/bhf-instituto/TrabajoPractico_02.git**
 
 ## Estructura principal
 - **TP_2/Program.cs** – Punto de entrada y loop principal.  
