@@ -1,7 +1,6 @@
 # Trabajo Práctico N° 2
 
 **Autor:** Bauhoffer Mariano  
-**Licencia:** MIT  
 **Materia:** Programación 1  
 **Profesor:** Pini Leandro  
 **Curso:** 1° C  
