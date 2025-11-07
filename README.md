@@ -15,7 +15,7 @@ Aplicación de consola para gestionar una agenda de contactos. Interfaz enriquec
 - Paquete NuGet: Spectre.Console (en el proyecto se usa la versión 0.53.0)
 
 ## Locación original de la solución
-- **C:\Prog1\TP_2**
+- **C:\Prog1\TrabajoPractico_02**
 
 ## Repositorio de GitHub
 - **https://github.com/bhf-instituto/TrabajoPractico_02.git**
